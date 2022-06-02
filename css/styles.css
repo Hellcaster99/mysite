@@ -1,0 +1,41 @@
+
+.name{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #E4F9F5;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  top: 250px;
+}
+.roundimg{
+  border-radius: 100%;
+}
+.dp{
+  margin-top: 40px;
+}
